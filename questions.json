@@ -6,13 +6,5 @@
       "yes": "t",
       "no": "f"
     }
-  },
-  {
-   "id": "2",
-    "question": "U stupid?",
-    "answers": {
-     "yes" : "f",
-     "no": "t"
-    }
   }
 ]
