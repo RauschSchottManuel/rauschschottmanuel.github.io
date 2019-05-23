@@ -1,0 +1,9 @@
+[
+  {
+    "question": "Are you dumb?",
+    "answers": {
+      "yes": "t",
+      "no": "f"
+    }
+  }
+]
