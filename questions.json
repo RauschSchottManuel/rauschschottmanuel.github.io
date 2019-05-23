@@ -1,8 +1,18 @@
-{
-  "id": "1",
-  "question": "Are you dumb?",
-  "answers": {
-    "yes": "t",
-    "no": "f"
+[
+  {
+    "id": "1",
+    "question": "Are you dumb?",
+    "answers": {
+      "yes": "t",
+      "no": "f"
+    }
+  },
+  {
+   "id": "2",
+    "question": "U stupid?",
+    "answers": {
+     "yes" : "f",
+     "no": "t"
+    }
   }
-}
+]
