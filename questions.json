@@ -6,5 +6,21 @@
       "yes": "t",
       "no": "f"
     }
+  },
+  {
+    "id": "2",
+    "question": "Is this boring?",
+    "answers": {
+      "yes": "t",
+      "no": "f"
+    }
+  },
+  {
+    "id": "3",
+    "question": "Good day?",
+    "answers": {
+      "yes": "f",
+      "no": "t"
+    }
   }
 ]
