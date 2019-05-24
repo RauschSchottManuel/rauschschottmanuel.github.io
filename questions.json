@@ -1,14 +1,15 @@
 [
   {
-    "id": "1",
+    "id": "q1",
     "question": "Are you dumb?",
-    "answers": {
-      "yes": "t",
-      "no": "f"
-    }
   },
   {
-    "id": "2",
+    "id": "a1",
+    "yes": "t",
+    "no": "f"
+  },
+  {
+    "id": "q2",
     "question": "Is this boring?",
     "answers": {
       "yes": "t",
@@ -16,7 +17,7 @@
     }
   },
   {
-    "id": "3",
+    "id": "q3",
     "question": "Good day?",
     "answers": {
       "yes": "f",
