@@ -4,24 +4,11 @@
     "question": "Are you dumb?",
   },
   {
-    "id": "a1",
-    "yes": "t",
-    "no": "f"
-  },
-  {
     "id": "q2",
     "question": "Is this boring?",
-    "answers": {
-      "yes": "t",
-      "no": "f"
-    }
   },
   {
     "id": "q3",
     "question": "Good day?",
-    "answers": {
-      "yes": "f",
-      "no": "t"
-    }
   }
 ]
