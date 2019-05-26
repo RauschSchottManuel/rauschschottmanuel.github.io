@@ -1,14 +1,17 @@
 [
   {
     "id": "q1",
-    "question": "Are you dumb?"
+    "question": "Are you dumb?",
+    "answerTemplate": 0
   },
   {
     "id": "q2",
-    "question": "Is this boring?"
+    "question": "Is this boring?",
+    "answerTemplate": 1
   },
   {
     "id": "q3",
-    "question": "Good day?"
+    "question": "Good day?",
+    "answerTemplate": 0
   }
 ]
