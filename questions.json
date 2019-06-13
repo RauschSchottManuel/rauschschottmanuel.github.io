@@ -2,17 +2,17 @@
   {
     "id": "q1",
     "question": "Does the Internet play a big role in her life?",
-    "answerTemplate": 0
+    "answerTemplate": 2
   },
   {
     "id": "q2",
     "question": "How many hours a day are you on the Internet?",
-    "answerTemplate": 1
+    "answerTemplate": 2
   },
   {
     "id": "q3",
     "question": "Could you imagine a life without a cell phone?",
-    "answerTemplate": 0
+    "answerTemplate": 1
   },
   {
     "id": "q4",
@@ -22,7 +22,7 @@
   {
     "id": "q5",
     "question": "Do you think you are addicted?",
-    "answerTemplate": 0
+    "answerTemplate": 1
   },
   {
     "id": "q6",
@@ -32,27 +32,27 @@
   {
     "id": "q7",
     "question": "Do you have many friends on the Internet?",
-    "answerTemplate": 0
+    "answerTemplate": 2
   },
   {
     "id": "q8",
     "question": "Do you have more friends on the Internet or in real life?",
-    "answerTemplate": 0
+    "answerTemplate": 1
   },
   {
     "id": "q9",
     "question": "Do you pay more in real life or on the Internet?",
-    "answerTemplate": 0
+    "answerTemplate": 1
   },
   {
     "id": "q10",
     "question": "Are you satisfied with your internet connection?",
-    "answerTemplate": 0
+    "answerTemplate": 2
   },
   {
     "id": "q11",
     "question": "Do you surf the Internet more on your PC or mobile phone?",
-    "answerTemplate": 0
+    "answerTemplate": 1
   },
   {
     "id": "q12",
@@ -62,12 +62,12 @@
   {
     "id": "q13",
     "question": "Do you like the fact that small children are directly confronted with the Internet?",
-    "answerTemplate": 0
+    "answerTemplate": 2
   },
   {
     "id": "q14",
     "question": "Do everyone in your household have a mobile phone?",
-    "answerTemplate": 0
+    "answerTemplate": 1
   },
   {
     "id": "q15",
@@ -77,31 +77,36 @@
   {
     "id": "q16",
     "question": "Have you had any financial problems with your mobile phone?",
-    "answerTemplate": 0
+    "answerTemplate": 1
   },
   {
     "id": "q17",
     "question": "Do you think that the use of a mobile phone can cause damage to your health?",
-    "answerTemplate": 0
+    "answerTemplate": 1
   },
   {
     "id": "q18",
     "question": "Has your mobile phone ever helped you in an emergency?",
-    "answerTemplate": 0
+    "answerTemplate": 1
   },
   {
     "id": "q19",
     "question": "How much money do you or parents spend per month on your mobile phone?",
-    "answerTemplate": 0
+    "answerTemplate": 2
   },
   {
-    "id": "q20",
+    "id": "q20
+    "question": "How often do you buy a new mobile phone?",
+    "answerTemplate": 2
+  }
+  {
+    "id": "q21
     "question": "What brand is your phone from?",
     "answerTemplate": 0
   },
   {
-    "id": "q21",
+    "id": "q22
     "question": "How many apps have you installed on your phone?",
-    "answerTemplate": 0
+    "answerTemplate": 2
   }
 ]
