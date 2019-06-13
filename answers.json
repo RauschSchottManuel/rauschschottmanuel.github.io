@@ -2,25 +2,179 @@
   {
     "id": "a1",
     "answers": [
-      ["yes", 8],
-      ["no", 0]
+      ["very important", 8],
+      ["hardly ever use it", 0],
+      [1-5]
     ]
   },
   {
     "id": "a2",
     "answers": [
-      ["yes", 3],
-      ["no", 5],
-      ["dunno", 18]
+      ["1h or less", 3],
+      ["5h or more", 5],
+      [1-5]
     ]
   },
   {
     "id": "a3",
     "answers": [
       ["yes", 2],
-      ["no", 6],
-      ["why", 0],
-      ["are you running", 19]
+      ["no", 6]
+    ]
+  },
+  {
+    "id": "a4",
+    "answers": [
+      ["Whatapp", 2],
+      ["Instagram", 6],
+      ["Facebook", 2],
+      ["Snapchat", 2],
+      ["none of the above", 2]
+    ]
+  },
+  {
+    "id": "a5",
+    "answers": [
+      ["yes", 2],
+      ["no", 6]
+    ]
+  },
+  {
+    "id": "a6",
+    "answers": [
+      ["television", 2],
+      ["internet", 6],
+      ["video games", 2],
+      ["none of the above", 2]
+    ]
+  },
+  {
+    "id": "a7",
+    "answers": [
+      ["none", 2],
+      ["many", 6],
+      [1-5]
+    ]
+  },
+  {
+    "id": "a8",
+    "answers": [
+      ["internet", 2],
+      ["real life", 6],
+    ]
+  },
+  {
+    "id": "a9",
+    "answers": [
+      ["internet", 2],
+      ["real life", 6]
+    ]
+  },
+  {
+    "id": "a10",
+    "answers": [
+      ["very happy", 2],
+      ["not satisfied at all", 6]
+    ]
+  },
+  {
+    "id": "a11",
+    "answers": [
+      ["mobile phone", 2],
+      ["pc", 6],
+      ["none of the above", 9]
+    ]
+  },
+  {
+    "id": "a12",
+    "answers": [
+      ["Settlement of banking transactions", 2],
+      ["social media", 6],
+      ["online shopping", 2],
+      ["listen to music", 2],
+      ["Streaming of paid series and films", 2]
+    ]
+  },
+  {
+    "id": "a13",
+    "answers": [
+      ["it is important", 2],
+      ["it is not good", 6],
+      [1-5]
+    ]
+  },
+  {
+    "id": "a14",
+    "answers": [
+      ["yes", 2],
+      ["no", 6]
+    ]
+  },
+  {
+    "id": "a15",
+    "answers": [
+      ["yes, in my family", 2],
+      ["yes, in my circle of friends", 2],
+      ["no", 6]
+    ]
+  },
+  {
+    "id": "a16",
+    "answers": [
+      ["yes", 2],
+      ["no", 6]
+    ]
+  },
+  {
+    "id": "a17",
+    "answers": [
+      ["yes, may cause serious damage", 2],
+      ["yes, may cause minor damage", 2],
+      ["no, cannot cause any damage", 6]
+    ]
+  },
+  {
+    "id": "a18",
+    "answers": [
+      ["yes", 2],
+      ["no", 6]
+    ]
+  },
+  {
+    "id": "a19",
+    "answers": [
+      ["5€ or less", 2],
+      ["100€ or more", 6],
+      [1-10]
+    ]
+  },
+  {
+    "id": "a20",
+    "answers": [
+      ["every year or more often", 2],
+      ["for over 10 years no more", 6],
+      [1-10]
+    ]
+  },
+  {
+    "id": "a21",
+    "answers": [
+      ["Apple", 2],
+      ["Samsung", 6],
+      ["HTC",5],
+      ["LG",5],
+      ["Nokia",5],
+      ["Sony Ericsson",5],
+      ["other",5],
+      [1-10]
+    ]
+  },
+  {
+    "id": "a22",
+    "answers": [
+      ["10 or less", 2],
+      ["100 or more", 6],
+      [1-10]
     ]
   }
 ]
