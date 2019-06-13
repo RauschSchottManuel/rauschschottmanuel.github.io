@@ -95,17 +95,17 @@
     "answerTemplate": 2
   },
   {
-    "id": "q20
+    "id": "q20",
     "question": "How often do you buy a new mobile phone?",
     "answerTemplate": 2
   },
   {
-    "id": "q21
+    "id": "q21",
     "question": "What brand is your phone from?",
     "answerTemplate": 0
   },
   {
-    "id": "q22
+    "id": "q22",
     "question": "How many apps have you installed on your phone?",
     "answerTemplate": 2
   }
