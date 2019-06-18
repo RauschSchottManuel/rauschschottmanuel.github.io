@@ -7,12 +7,12 @@
   {
     "id": "q2",
     "question": "How many hours a day are you on the Internet?",
-    "answerTemplate": 2
+    "answerTemplate": 1
   },
   {
     "id": "q3",
     "question": "Could you imagine a life without a cell phone?",
-    "answerTemplate": 1
+    "answerTemplate": 2
   },
   {
     "id": "q4",
@@ -22,7 +22,7 @@
   {
     "id": "q5",
     "question": "Do you think you are addicted?",
-    "answerTemplate": 1
+    "answerTemplate": 2
   },
   {
     "id": "q6",
@@ -66,38 +66,38 @@
   },
   {
     "id": "q14",
-    "question": "Do everyone in your household have a mobile phone?",
-    "answerTemplate": 1
+    "question": "Does everyone in your household have a mobile phone?",
+    "answerTemplate": 2
   },
   {
     "id": "q15",
     "question": "Do you know people who are addicted?",
-    "answerTemplate": 0
+    "answerTemplate": 2
   },
   {
     "id": "q16",
     "question": "Have you had any financial problems with your mobile phone?",
-    "answerTemplate": 1
+    "answerTemplate": 2
   },
   {
     "id": "q17",
     "question": "Do you think that the use of a mobile phone can cause damage to your health?",
-    "answerTemplate": 1
+    "answerTemplate": 2
   },
   {
     "id": "q18",
     "question": "Has your mobile phone ever helped you in an emergency?",
-    "answerTemplate": 1
+    "answerTemplate": 2
   },
   {
     "id": "q19",
     "question": "How much money do you or parents spend per month on your mobile phone?",
-    "answerTemplate": 2
+    "answerTemplate": 1
   },
   {
     "id": "q20",
     "question": "How often do you buy a new mobile phone?",
-    "answerTemplate": 2
+    "answerTemplate": 1
   },
   {
     "id": "q21",
@@ -107,6 +107,6 @@
   {
     "id": "q22",
     "question": "How many apps have you installed on your phone?",
-    "answerTemplate": 2
+    "answerTemplate": 1
   }
 ]
