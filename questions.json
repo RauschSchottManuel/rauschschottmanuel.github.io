@@ -6,7 +6,7 @@
   },
   {
     "id": "q2",
-    "question": "How many hours a day are you on the Internet?",
+    "question": "Do you spend a lot of time on the internet?",
     "answerTemplate": 1
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "id": "q4",
-    "question": "Which of these apps do you use most?",
+    "question": "Are there specific apps that you use a lot?",
     "answerTemplate": 0
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "id": "q6",
-    "question": "What do you use most often?",
+    "question": "Do your friends or family think you're addicted?",
     "answerTemplate": 0
   },
   {
@@ -36,12 +36,12 @@
   },
   {
     "id": "q8",
-    "question": "Do you have more friends on the Internet or in real life?",
+    "question": "Do you have more friends on the Internet than in real life?",
     "answerTemplate": 1
   },
   {
     "id": "q9",
-    "question": "Do you pay more in real life or on the Internet?",
+    "question": "Do you pay more in real life than on the Internet?",
     "answerTemplate": 1
   },
   {
@@ -51,62 +51,57 @@
   },
   {
     "id": "q11",
-    "question": "Do you surf the Internet more on your PC or mobile phone?",
+    "question": "Do you surf the web more on your PC than on mobile phone?",
     "answerTemplate": 1
   },
   {
     "id": "q12",
-    "question": "Where do you use the Internet most often?",
-    "answerTemplate": 0
-  },
-  {
-    "id": "q13",
     "question": "Do you like the fact that small children are directly confronted with the Internet?",
     "answerTemplate": 2
   },
   {
-    "id": "q14",
+    "id": "q13",
     "question": "Does everyone in your household have a mobile phone?",
     "answerTemplate": 2
   },
   {
-    "id": "q15",
+    "id": "q14",
     "question": "Do you know people who are addicted?",
     "answerTemplate": 2
   },
   {
-    "id": "q16",
+    "id": "q15",
     "question": "Have you had any financial problems with your mobile phone?",
     "answerTemplate": 2
   },
   {
-    "id": "q17",
-    "question": "Do you think that the use of a mobile phone can cause damage to your health?",
+    "id": "q16",
+    "question": "Do you think that the usage of a mobile phone can cause damage to your mental and or physical health?",
     "answerTemplate": 2
   },
   {
-    "id": "q18",
+    "id": "q17",
     "question": "Has your mobile phone ever helped you in an emergency?",
     "answerTemplate": 2
   },
   {
+    "id": "q18",
+    "question": "Do you spend a lot of money beacause of your phone?",
+    "answerTemplate": 1
+  },
+  {
     "id": "q19",
-    "question": "How much money do you or parents spend per month on your mobile phone?",
+    "question": "Do you buy more than 1 phone per year?",
     "answerTemplate": 1
   },
   {
     "id": "q20",
-    "question": "How often do you buy a new mobile phone?",
-    "answerTemplate": 1
-  },
-  {
-    "id": "q21",
-    "question": "What brand is your phone from?",
+    "question": "Do you buy your phone from a specific brand?",
     "answerTemplate": 0
   },
   {
-    "id": "q22",
-    "question": "How many apps have you installed on your phone?",
+    "id": "q21",
+    "question": "Do you have a lot of apps on your phone?",
     "answerTemplate": 1
   }
 ]
